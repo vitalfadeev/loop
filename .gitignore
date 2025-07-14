@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/loop
+loop.so
+loop.dylib
+loop.dll
+loop.a
+loop.lib
+loop-test-*
+*.exe
+*.o
+*.obj
+*.lst
